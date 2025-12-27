@@ -36,6 +36,8 @@ Procedure
 3.   Adjust the motor speed to rated speed by adjusting motor field rheostat when the generator is disconnected from the load by DPST switch 2.
 4.   By  varying  the  generator  field  rheostat  gradually,  the  open  circuit  voltage  [Eo]  and corresponding field current (If) are tabulated up to 125 % of rated voltage of generator.
 5.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
+   <img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/200ef738-e30a-46f0-ab36-fb749a4a69db" />
+
 
 Procedure for Load test:
 
