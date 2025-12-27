@@ -64,3 +64,5 @@ Load Characteristics:
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
+<img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/0ed2a878-b90c-46ca-a2bd-db0be8ca902f" />
+
