@@ -48,6 +48,8 @@ Procedure for Load test:
 5.   The ammeter and voltmeter readings are observed for different loads up to the rated current by closing the DPST switch 2.
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
+   <img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/e0834291-98ed-4929-bc55-24fcd4d5ccf3" />
+
 
 Tabulation and Model graph:
 <img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/b63f4204-1b50-4e28-b179-a0a44f0aec1f" />
